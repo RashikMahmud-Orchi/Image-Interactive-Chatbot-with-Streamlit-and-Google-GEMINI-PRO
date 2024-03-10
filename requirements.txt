@@ -1,0 +1,5 @@
+Flask
+Pillow
+streamlit
+google-generativeai
+python-dotenv
