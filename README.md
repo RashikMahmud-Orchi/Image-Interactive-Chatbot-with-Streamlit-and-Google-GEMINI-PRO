@@ -72,8 +72,8 @@ Image-Interactive-Chatbot/
 
 ## Example
 ## Upload Image
-
+![Hh](https://github.com/RashikMahmud-Orchi/Image-Interactive-Chatbot-with-Streamlit-and-Google-GEMINI-PRO/assets/107617728/5126e57c-a9e3-4ec8-b6f3-54d59bb4b8bc)
 ## Ask Questions
-
+![query](https://github.com/RashikMahmud-Orchi/Image-Interactive-Chatbot-with-Streamlit-and-Google-GEMINI-PRO/assets/107617728/a51cc939-1c94-4685-9753-96558cd4594f)
 ## Get Responses
-
+![resposne](https://github.com/RashikMahmud-Orchi/Image-Interactive-Chatbot-with-Streamlit-and-Google-GEMINI-PRO/assets/107617728/e82c99fa-05b9-4581-bc2f-d882cf135df2)
