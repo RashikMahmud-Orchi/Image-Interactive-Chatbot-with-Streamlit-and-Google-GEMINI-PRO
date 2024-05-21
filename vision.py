@@ -30,9 +30,9 @@ def get_gemini_response(input,image):
 
 ##initialize our streamlit app
 
-st.set_page_config(page_title="Gemini Image Demo")
+st.set_page_config(page_title="Image Interactive Chatbot")
 
-st.header("Gemini Application")
+st.header("Image Interactive Chatbot")
 input=st.text_input("Input Prompt: ",key="input")
 uploaded_file = st.file_uploader("Choose an image...", type=["jpg", "jpeg", "png"])
 image=""   
