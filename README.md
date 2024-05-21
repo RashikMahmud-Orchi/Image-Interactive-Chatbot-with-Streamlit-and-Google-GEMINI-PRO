@@ -69,3 +69,11 @@ Image-Interactive-Chatbot/
 ├── requirements.txt     # Python dependencies
 ├── vision.py            # Streamlit app file
 └── README.md            # Project documentation
+
+## Example
+## Upload Image
+
+## Ask Questions
+
+## Get Responses
+
