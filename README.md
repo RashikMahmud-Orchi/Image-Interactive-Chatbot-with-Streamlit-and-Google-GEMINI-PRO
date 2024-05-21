@@ -69,7 +69,7 @@ Image-Interactive-Chatbot/
 ├── requirements.txt     # Python dependencies
 ├── vision.py            # Streamlit app file
 └── README.md            # Project documentation
-
+```
 ## Example
 ## Upload Image
 ![Hh](https://github.com/RashikMahmud-Orchi/Image-Interactive-Chatbot-with-Streamlit-and-Google-GEMINI-PRO/assets/107617728/5126e57c-a9e3-4ec8-b6f3-54d59bb4b8bc)
